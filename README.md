@@ -2,7 +2,7 @@
 
 # Autor
 
-nombre
+Ricardo Murcia
 
 ## Proyecto html css
 
